@@ -1,24 +1,22 @@
-# 🤖 LLM Chatbot w/ Vector Search
+# 🤖 Mini Autonomous Agent
 
-A chatbot that searches custom documents using embeddings.
+An LLM-powered agent that completes tasks by calling APIs.
 
 ## 🧰 Stack
 - LangChain
-- FastAPI
-- Qdrant
-- Auth
+- Python APIs
 
 ## 🧠 What I’m Learning
-- Embedding text & storing in vector DB
-- RAG search
-- Auth & session storage
+- Tool usage in LangChain
+- Goal-based decision loops
+- LLM planning chains
 
 ## ✅ Roadmap
-- [ ] LangChain pipeline
-- [ ] Connect Qdrant
-- [ ] Add Auth (JWT/session)
-- [ ] UI + rate limiting
-- [ ] Deploy + test
+- [ ] Define core use case
+- [ ] Add tools (API calls, file writing, etc.)
+- [ ] Loop over decisions
+- [ ] Result logging
+- [ ] Simple UI (optional)
 
 ## 🕓 Progress Log
 - TBD
